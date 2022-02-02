@@ -1,7 +1,5 @@
 # NN_PDE
 
-# Please cite our work if useful: 
-
 Integration of Neural Networks with Numerical Solution of PDEs for closure models development
 
 # Please cite our work if found it useful:
